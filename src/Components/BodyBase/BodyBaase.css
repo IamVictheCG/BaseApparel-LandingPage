@@ -1,0 +1,40 @@
+.body .pbod {
+  margin: 0%;
+  font-size: 50px;
+  color: rgb(92, 60, 60);
+}
+.body .p {
+  font-size: 22px;
+  width: 500px;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  color: rgb(219, 128, 128);
+  display: flex;
+  justify-content: start;
+}
+.body h1 {
+  width: 70px;
+  height: 46px;
+  color: salmon;
+  border: 0px solid salmon;
+  border-radius: 25px;
+  background-color: rgb(240, 112, 161);
+  position: relative;
+  bottom: 69.4px;
+  left: 419.5px;
+}
+.body input {
+  border: 3px solid rgb(240, 112, 161);
+  border-radius: 25px;
+  width: 490px;
+  height: 42px;
+  position: relative;
+  right: 8px;
+}
+.body p {
+  display: flex;
+  justify-content: flex-start;
+}
+
+/*# sourceMappingURL=BodyBaase.css.map */
