@@ -4,14 +4,13 @@
   color: rgb(92, 60, 60);
 }
 .body .p {
-  font-size: 22px;
   width: 500px;
   height: -webkit-fit-content;
   height: -moz-fit-content;
   height: fit-content;
-  color: rgb(219, 128, 128);
+  color: rgb(250, 216, 216);
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
 }
 .body h1 {
   width: 70px;
@@ -22,19 +21,15 @@
   background-color: rgb(240, 112, 161);
   position: relative;
   bottom: 69.4px;
-  left: 419.5px;
+  left: 427px;
 }
 .body input {
-  border: 3px solid rgb(240, 112, 161);
+  border: 3px solid rgb(185, 21, 84);
   border-radius: 25px;
   width: 490px;
   height: 42px;
-  position: relative;
-  right: 8px;
 }
 .body p {
   display: flex;
   justify-content: flex-start;
-}
-
-/*# sourceMappingURL=BodyBaase.css.map */
+}/*# sourceMappingURL=BodyBaase.css.map */
